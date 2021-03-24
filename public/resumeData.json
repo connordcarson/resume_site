@@ -2,12 +2,12 @@
   "main": {
     "name":"Connor Carson",
     "occupation":"Software Developer",
-    "description":"with a passion for thrill-seeking, story writing, and TTRPGs on the side",
+    "description":"with a passion for thrill seeking, storytelling, and TTRPGs on the side",
     "image":"connor.jpg",
     "bio":"A recent IT Innovation graduate from the University of Nebraska at Omaha, I love to work with ReactJs, Angular, and UX/UI design whenever possible. I am currently seeking work involving website and web app projects. The most satisfying part of the project experience is creating a useful and worthwhile product for the user. I enjoy connecting with clients and working towards a solution as a team, collaborating with others to fulfill our goals and deadlines.",
-    "contactmessage":"Please feel free to contact me using the following channels:",
+    "contactmessage":"FORM SUBMISSIONS ARE CURRENTLY DOWN. Please feel free to reach me at the phone or email listed below!",
     "email": "connordcarson1@gmail.com",
-    "phone": "402-310-6923",
+    "phone": "512-621-6222",
     "address":{
       "street":"4516 Triggs Trail",
       "city":"Tyler",
@@ -15,7 +15,7 @@
       "zip": "75709"
     },
     "website": "https://connordcarson.web.app/",
-    "resumedownload":"https://connordcarson.web.app/",
+    "resumedownload":"/documents/ConnorCarson.pdf",
     "social":[
       {
         "name":"twitter",
@@ -41,7 +41,8 @@
         "school":"University of Nebraska at Omaha",
         "degree":"Bachelors of Science in IT Innovation",
         "graduated":"December 2020",
-        "description":"UNO was the perfect learning environment to start my journey as a developer. It connected me with other people my age but also helped expose me to the greater tech community in America."
+        "description":"I started my higher learning at UNO, where I first concentrated in Computer Science and Game Design before transitioning over to IT Innovation. There I learned a diverse array of technical and programming skills, such as Java, HTML/CSS/JavaScript, C, project management, client relations, and UX/UI design.",
+        "description2":"Getting my bachelors here provided me with a perspective that I had never known growing up in Nebraska. The idea that anything was possible finally seemed real. I found my love for problem-solving, strong teamwork, and exciting new ideas here. This experience pushes me to do more and be more than I was yesterday and I can't be more grateful."
       }
     ],
     "work":[
@@ -49,19 +50,23 @@
         "company":"Fiserv/First Data",
         "title":"Junior Software Developer",
         "years":"May 2019 - June 2020",
-        "description":"My most influential work experience to date, First Data (now Fiserv) trained me in full-development teams and allowed me to apply the sprint methodologies that I now use today."
+        "description":"My work as a junior software developer at Fiserv entailed alot of maintenance of old Java thick-client applications while help my team transisiton the old software over to new web applications. I triaged critical bugs in old code and worked with clients to make sure the version in production was functioning as intended. I often built pieces of new features that the clients thought the new web apps would need.",
+        "description2":"Working for the company, I saw the nitty gritty of what working for a development team entailed. There were tough projects and there were fun projects too. I really appreciated the help that my fellow developers provided me and how much they wanted to see me grow."
       },
       {
         "company":"Koraleski Commerce and Behavior Lab",
         "title":"IT Technician",
         "years":"January 2018 - December 2018",
-        "description":"A great opportunity to learn about responsibility, my work with the Koraleski Lab helped grow my abilities as a leader."
+        "description":"I began work at the CAB Lab as a way to keep working through a tough semester of classes but the experience was a valuable teaching moment. I enjoyed the work of helping the lab in any way that I could, whether it was building PCs, learning human experimentation research, or maintaining operating systems for the research computers.",
+        "description2":"The job was a great opportunity to learn about responsibility, my work grow my abilities as a leader. I was often the go-to man for any IT-related questions and this meant that I would often have to learn about technology and problems that my classes and previous experience did not teach."
+
       },
       {
         "company":"Union Pacific Railroad",
         "title":"OSS Information Technology Member",
         "years":"May 2017 - December 2017",
-        "description":"My first tech experience, Union Pacific first exposed to a professional business environment. Supporting other employees and assisting my department allowed me to learn a broad range of inter-personal skills."
+        "description":"My first tech experience, Union Pacific first exposed to a professional business environment. The inter-personal skills I gained were invaluable and helped me become a more out-going and confident worker. There was often a lot of system support work for my team, where we reconfigured company smartphones, retrieved data files for other departments, and help organize IT projects that would save the company money in the future.",
+        "description2":"Supporting other employees and assisting my department helped me understand the realities of working for a corporate business and what it meant to work in a team. I also made many friends while on the job and learned the value of networking withing the tech industry."
       }
     ],
     "skills":[

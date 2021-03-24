@@ -20,7 +20,6 @@ class Footer extends Component {
 
            <ul className="copyright">
               <li>&copy; Copyright 2020 Connor Carson</li>
-              <li>Designed with <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
            </ul>
 
         </div>
