@@ -1,18 +1,18 @@
 {
   "main": {
     "name":"Connor Carson",
-    "occupation":"Software Developer",
-    "description":"with a passion for thrill seeking, storytelling, and TTRPGs on the side",
+    "occupation":"Junior Web Developer",
+    "description":"with a passion for travel, storytelling, and TTRPGs on the side",
     "image":"connor.jpg",
-    "bio":"A recent IT Innovation graduate from the University of Nebraska at Omaha, I love to work with ReactJs, Angular, and UX/UI design whenever possible. I am currently seeking work involving website and web app projects. The most satisfying part of the project experience is creating a useful and worthwhile product for the user. I enjoy connecting with clients and working towards a solution as a team, collaborating with others to fulfill our goals and deadlines.",
+    "bio":"An IT Innovation graduate from the University of Nebraska at Omaha, I love to work with ReactJs, Angular, and UX/UI design whenever possible. I am currently seeking work involving website and web app projects. The most satisfying part of the project experience is creating a useful and worthwhile product for the user. I enjoy connecting with clients and working towards a solution as a team, collaborating with others to fulfill our goals and deadlines.",
     "contactmessage":"FORM SUBMISSIONS ARE CURRENTLY DOWN. Please feel free to reach me at the phone or email listed below!",
     "email": "connordcarson1@gmail.com",
     "phone": "512-621-6222",
     "address":{
-      "street":"4516 Triggs Trail",
-      "city":"Tyler",
+      "street":"2005 Willow Creek Dr. #2029",
+      "city":"Austin",
       "state":"Texas",
-      "zip": "75709"
+      "zip": "78741"
     },
     "website": "https://connordcarson.web.app/",
     "resumedownload":"/documents/ConnorCarson.pdf",
@@ -46,6 +46,13 @@
       }
     ],
     "work":[
+      {
+        "company":"Highland Lounge",
+        "title":"Contract Website & Media Consultant",
+        "years":"April 2021 - Present",
+        "description":"",
+        "description2":""
+      },
       {
         "company":"Fiserv/First Data",
         "title":"Junior Software Developer",
