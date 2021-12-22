@@ -4,7 +4,7 @@
     "occupation":"Junior Web Developer",
     "description":"with a passion for travel, storytelling, and TTRPGs on the side",
     "image":"connor.jpg",
-    "bio":"An IT Innovation graduate from the University of Nebraska at Omaha, I love to work with ReactJs, Angular, and UX/UI design whenever possible. I am currently seeking work involving website and web app projects. The most satisfying part of the project experience is creating a useful and worthwhile product for the user. I enjoy connecting with clients and working towards a solution as a team, collaborating with others to fulfill our goals and deadlines.",
+    "bio":"An IT Innovation graduate from the University of Nebraska at Omaha, I love to work in frontend development and UX/UI design whenever possible. The most satisfying part of my project work experience is creating a useful and worthwhile product for the user. I enjoy connecting with clients and working towards a solution as a team, collaborating with others to fulfill our goals and deadlines.",
     "contactmessage":"FORM SUBMISSIONS ARE CURRENTLY DOWN. Please feel free to reach me at the phone or email listed below!",
     "email": "connordcarson1@gmail.com",
     "phone": "512-621-6222",
@@ -50,14 +50,14 @@
         "company":"Highland Lounge",
         "title":"Contract Website & Media Consultant",
         "years":"April 2021 - Present",
-        "description":"",
-        "description2":""
+        "description":"My position with Highland Lounge includes maintaining the venue's Wix website as well as incorporating custom JavaScript for specialized services on the site. I also supported the venue by advicing fellow leadership on possible technology to adopt that would bring in more customers while collaborated with other employees to release media promotions and business content.",
+        "description2":"This position is my first job out of college and my first contracted position. I consider the work a valuable introduction not only to contract work but also to being a leader within the company. I am usually the point of contact for many questions about IT-related business subjects and I enjoy being able to provide that value to Highland Lounge."
       },
       {
         "company":"Fiserv/First Data",
         "title":"Junior Software Developer",
         "years":"May 2019 - June 2020",
-        "description":"My work as a junior software developer at Fiserv entailed alot of maintenance of old Java thick-client applications while help my team transisiton the old software over to new web applications. I triaged critical bugs in old code and worked with clients to make sure the version in production was functioning as intended. I often built pieces of new features that the clients thought the new web apps would need.",
+        "description":"My work as a junior software developer at Fiserv entailed a lot of maintenance on old Java thick-client applications while helping my team transition the old software over to new web applications. I triaged critical bugs in old code and worked with clients to make sure the version in production was functioning as intended. I often built pieces of new features that the clients thought the new web apps would need.",
         "description2":"Working for the company, I saw the nitty gritty of what working for a development team entailed. There were tough projects and there were fun projects too. I really appreciated the help that my fellow developers provided me and how much they wanted to see me grow."
       },
       {
@@ -65,7 +65,7 @@
         "title":"IT Technician",
         "years":"January 2018 - December 2018",
         "description":"I began work at the CAB Lab as a way to keep working through a tough semester of classes but the experience was a valuable teaching moment. I enjoyed the work of helping the lab in any way that I could, whether it was building PCs, learning human experimentation research, or maintaining operating systems for the research computers.",
-        "description2":"The job was a great opportunity to learn about responsibility, my work grow my abilities as a leader. I was often the go-to man for any IT-related questions and this meant that I would often have to learn about technology and problems that my classes and previous experience did not teach."
+        "description2":"The job was a great opportunity to learn about responsibility, and how to grow my abilities as a leader. I was often the go-to man for any IT-related questions and this meant that I would often have to learn about technology and problems that my classes and previous experience did not teach."
 
       },
       {
@@ -78,32 +78,32 @@
     ],
     "skills":[
       {
-        "name":"ReactJs",
-        "level":"80%"
-      },
-      {
         "name":"Java",
-        "level":"90%"
+        "level":"70%"
       },
       {
-        "name":"Angular",
-        "level":"75%"
-      },
-      {
-        "name":"CSS",
-        "level":"65%"
-      },
-      {
-        "name":"HTML5",
-        "level":"75%"
-      },
-      {
-        "name":"Perl",
+        "name":"ReactJS",
         "level":"60%"
       },
       {
-        "name":"C",
+        "name":"Angular",
         "level":"55%"
+      },
+      {
+        "name":"HTML5",
+        "level":"55%"
+      },
+      {
+        "name":"CSS",
+        "level":"45%"
+      },
+      {
+        "name":"Perl",
+        "level":"40%"
+      },
+      {
+        "name":"C",
+        "level":"35%"
       }
     ]
   },
